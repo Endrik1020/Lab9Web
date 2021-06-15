@@ -100,7 +100,6 @@ Implementasikan konsep modularisasi pada kode program praktikum 8 tentang databa
 ![7](https://user-images.githubusercontent.com/81820421/122058816-38a6f400-ce16-11eb-9234-7bcd28422c2e.JPG)
 ## Menambahkan require footer pada file index.php
 ![8](https://user-images.githubusercontent.com/81820421/122059221-9afff480-ce16-11eb-8810-8ba5488792c6.JPG)
-## Menambahkan require footer pada file index.php
 
 
 
